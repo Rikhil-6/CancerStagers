@@ -7,19 +7,19 @@ In this repository, we have 7 files (including this README) and 1 folder which c
 
 ## Overview of Contents
 
-**###Requirements**
+### **Requirements**
 
 This text file contains the necessary libraries (as well as the versions used in the code files) to be installed for the code to run successfully. It is strongly advised to check that they have been installed and, to play it safe, install the libraries by running the `pip install -r requirements` in your command prompt/ terminal. 
 
-**###NUS_IT Folder** 
+### **NUS_IT Folder** 
 
 This folder contains 2 csv files, *Train_Set.csv* and *Test_Set.csv*, which are used for the training and testing of our saved models respectively. So long as the complete folder is downloaded on your computer with the NUS_IT folder being a subfolder alongside the jupyter notebooks (`.ipynb`), the code in those notebooks will run owing to the use of relative paths. 
 
-**Primary & Secondary Models**
+### **Primary & Secondary Models**
 
 Our group has decided on a hierarchical multi-model approach for enhanced classification of the different stages of cancer - including that of healthy patients. As a result, 2 models are used; a primary model that yields 4 distinct classes as outputs as well as a secondary model that gives binary results. Elaboration on the models can be found in the jupyter notebook IT_Proj - Final_v3, as well as the word document. However, to enable the models we created to be saved and loaded quickly, they were saved in the pickle files *CancerStagersPrimaryModel.pkl* and *CancerStagersSecondaryModel.pkl*. In the event they are absent/ corrupted, they can be made again by running the *IT_Proj - Final_v3.ipynb* notebook, yet with their presence, the evaluation of the saved model performance can be performed much more quickly with the use of the *IT_Proj - Novel.ipynb* notebook instead.
 
-**Jupyter Notebooks**
+### **Jupyter Notebooks**
 
 This repository contains 2 jupyter notebooks - *IT_Proj - Final_v3.ipynb* and *IT_Proj - Novel.ipynb*. The former notebook consists of our group's collective efforts in training the optimal Random Forest and Gradient Boosting models to classify people into different stages of cancer. The latter notebook consists of code that looks at the performance of the models when sequenced together on raw data (that we sample from our test set). 
 
