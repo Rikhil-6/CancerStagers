@@ -7,11 +7,11 @@ In this repository, we have 7 files (including this README) and 1 folder which c
 
 ## Overview of Contents
 
-**Requirements**
+**###Requirements**
 
 This text file contains the necessary libraries (as well as the versions used in the code files) to be installed for the code to run successfully. It is strongly advised to check that they have been installed and, to play it safe, install the libraries by running the `pip install -r requirements` in your command prompt/ terminal. 
 
-**NUS_IT Folder** 
+**###NUS_IT Folder** 
 
 This folder contains 2 csv files, *Train_Set.csv* and *Test_Set.csv*, which are used for the training and testing of our saved models respectively. So long as the complete folder is downloaded on your computer with the NUS_IT folder being a subfolder alongside the jupyter notebooks (`.ipynb`), the code in those notebooks will run owing to the use of relative paths. 
 
