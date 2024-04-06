@@ -1,6 +1,5 @@
-# NUS IT1244  AY 2023/24 
-# Sem 2  Team 31
-# CancerStagers
+# NUS IT1244, AY 2023/24, Sem 2  
+## Team 31: CancerStagers
 
 Hello and welcome to our Github repository for our IT1244 project by Nitish Kumar Sahoo, Leong Jing Rou, Wang Ruoyu and Rikhil Singh!
 
