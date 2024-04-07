@@ -9,7 +9,7 @@ In this repository, we have 8 files (including this README) and 1 folder which c
 
 ### **Requirements**
 
-This text file contains the necessary libraries (as well as the versions used in the code files) to be installed for the code to run successfully. It is strongly advised to check that they have been installed and, to play it safe, install the libraries by running the `pip install -r requirements` in your command prompt/ terminal. 
+This text file contains the necessary libraries (as well as the versions used in the code files) to be installed for the code to run successfully. It is strongly advised to check that they have been installed. If you ae unsure of the installation, you can install the libraries by running the `pip install -r requirements.txt` in your command prompt/ terminal. 
 
 ### **NUS_IT Folder** 
 
