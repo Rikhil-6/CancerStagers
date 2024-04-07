@@ -29,4 +29,4 @@ For the *IT_Proj - Base.ipynb*, it is of a similar situation that the file's run
 
 ### **Report**
 
-Our Repository also consists of a report that outlines our research and methodology as well as the advantages and limitations of the approach we have taken. This report, in conjunction with the jupyter notebooks, aims to provide a comprehensive overview on our aims and accomplishments in this insightful project we have engaged in
+Our Repository also consists of a report that outlines our research and methodology as well as the advantages and limitations of the approach we have taken. This report, in conjunction with the jupyter notebooks, aims to provide a comprehensive overview on our aims and accomplishments in this insightful project we have engaged in.
